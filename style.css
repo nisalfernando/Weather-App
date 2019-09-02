@@ -5,3 +5,10 @@
 body {
     background-color: #293251;
 }
+
+.container {
+    width: 300px;
+    background-color: #fff;
+    display: block;
+    margin: 0 auto;
+}
