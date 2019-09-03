@@ -26,3 +26,11 @@ body {
     font-size: 1.2em;
     color: #293251;
 }
+
+.notification {
+    color: #721c24;
+    font-size: 1.2em;
+    margin: 0;
+    text-align: center;
+    padding: 10px 0;
+}
