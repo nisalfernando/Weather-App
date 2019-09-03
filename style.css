@@ -18,3 +18,11 @@ body {
     height: 50px;
     border-radius: 10px 10px 0 0;
 }
+
+.app-title p {
+    text-align: center;
+    padding: 15px;
+    margin: 0 auto;
+    font-size: 1.2em;
+    color: #293251;
+}
