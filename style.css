@@ -28,6 +28,11 @@ body {
 }
 
 .notification {
+    background-color: #f8d7da;
+    display: none;
+}
+
+.notification p {
     color: #721c24;
     font-size: 1.2em;
     margin: 0;
