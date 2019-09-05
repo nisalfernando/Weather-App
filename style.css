@@ -39,3 +39,9 @@ body {
     text-align: center;
     padding: 10px 0;
 }
+
+.weather-container {
+    width: 300px;
+    height: 260px;
+    background-color: #f4f9ff;
+}
