@@ -7,3 +7,7 @@ const notificationElement = document.querySelector(".notification");
 
 // App data
 const weather = {};
+
+weather.temperature = {
+    unit: "celsius"
+};
