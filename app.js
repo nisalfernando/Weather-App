@@ -11,3 +11,6 @@ const weather = {};
 weather.temperature = {
     unit: "celsius"
 };
+
+// App Consts and Vars
+const KELVIN = 273;
