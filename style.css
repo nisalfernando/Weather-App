@@ -69,3 +69,8 @@ body {
     text-align: center;
     cursor: pointer;
 }
+
+.temperature-value span {
+    color: #293251;
+    font-size: 0.5em;
+}
