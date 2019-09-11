@@ -26,3 +26,6 @@ if ("geolocation" in navigator) {
     notificationElement.innerHTML =
         "<p>Browser doesn't Support Geolocation</p>";
 }
+
+// SET USER'S POSITION
+function setPosition(position) {}
