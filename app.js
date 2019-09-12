@@ -32,3 +32,6 @@ function setPosition(position) {
     let latitude = position.coords.latitude;
     let longitude = position.coords.longitude;
 }
+
+// GET WEATHER FROM API PROVIDER
+function getWeather(latitude, longitude) {}
