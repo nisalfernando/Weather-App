@@ -1,3 +1,5 @@
+// Tutorial by http://youtube.com/codeExplained
+
 // Select elements
 const iconElement = document.querySelector(".weather-icon");
 const tempElement = document.querySelector(".temperature-value p");
