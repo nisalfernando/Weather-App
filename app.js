@@ -44,5 +44,7 @@ function getWeather(latitude, longitude) {
             let data = response.json();
             return data;
         })
-        .then(function(data) {});
+        .then(function(data) {
+            weather.temperature.value = Math.floor(data.main.temp - KELVIN);
+        });
 }
