@@ -46,5 +46,6 @@ function getWeather(latitude, longitude) {
         })
         .then(function(data) {
             weather.temperature.value = Math.floor(data.main.temp - KELVIN);
+            weather.description = data.weather[0].description;
         });
 }
