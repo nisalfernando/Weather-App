@@ -37,6 +37,8 @@ function setPosition(position) {
     getWeather(latitude, longitude);
 }
 
+// Get Weather From API Provider
+
 // GET WEATHER FROM API PROVIDER
 function getWeather(latitude, longitude) {
     let api = `http://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=${key}`;
