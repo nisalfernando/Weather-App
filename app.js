@@ -37,7 +37,7 @@ function setPosition(position) {
     getWeather(latitude, longitude);
 }
 
-// Get Weather From API Provider
+// Show error when there is an issue with geolocation service
 
 // GET WEATHER FROM API PROVIDER
 function getWeather(latitude, longitude) {
