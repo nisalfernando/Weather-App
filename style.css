@@ -86,4 +86,7 @@ body {
 .location p {
     margin: 0;
     padding: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 0.8em;
 }
