@@ -40,6 +40,7 @@ function setPosition(position) {
 // Show error when there is an issue with geolocation service
 function showError(error) {
     notificationElement.style.display = "block";
+    notificationElement.innerHTML = `<p> ${error.message} </p>`;
 }
 
 // GET WEATHER FROM API PROVIDER
