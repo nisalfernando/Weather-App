@@ -65,3 +65,4 @@ function getWeather(latitude, longitude) {
 }
 
 // Display Weather To UI
+function displayWeather() {}
