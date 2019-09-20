@@ -65,4 +65,6 @@ function getWeather(latitude, longitude) {
 }
 
 // Display Weather To UI
-function displayWeather() {}
+function displayWeather() {
+    iconElement.innerHTML = `<img src="icons/${weather.iconId}.png"/>`;
+}
