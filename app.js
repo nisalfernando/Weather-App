@@ -76,3 +76,6 @@ function displayWeather() {
 function celsiusToFahrenheit(temperature) {
     return (temperature * 9) / 5 + 32;
 }
+
+// When The User Clicks On The Temperature Element
+tempElement.addEventListener("click", function() {});
