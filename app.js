@@ -78,4 +78,6 @@ function celsiusToFahrenheit(temperature) {
 }
 
 // When The User Clicks On The Temperature Element
-tempElement.addEventListener("click", function() {});
+tempElement.addEventListener("click", function() {
+    if (weather.temperature.value === undefined) return;
+});
