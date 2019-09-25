@@ -83,5 +83,6 @@ tempElement.addEventListener("click", function() {
 
     if (weather.temperature.unit == "celsius") {
         let fahrenheit = celsiusToFahrenheit(weather.temperature.value);
+        fahrenheit = Math.floor(fahrenheit);
     }
 });
