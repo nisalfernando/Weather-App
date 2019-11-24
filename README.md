@@ -10,3 +10,4 @@ What I learn from this project
 * To fetch the data from a server.
 * To use icons according to the weather.
 
+Nisal Fernando
