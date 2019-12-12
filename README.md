@@ -1,6 +1,6 @@
 # Weather-App
 
-# *+* Description of this project *+*
+# *-* Description of this project *+*
  --> This tells you the weather according to the browser location 
  --> This project is not owned by me. This a project of CodeExplained channel of YOUTUBE. I used for educational purpose only.
 
@@ -14,7 +14,5 @@
  --> This a good JS exercise.
  --> Reccomend any beginner.
  --> I had fun coding this.
- 
-* Hi man.
  
 Nisal Fernando
